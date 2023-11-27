@@ -48,12 +48,34 @@ Student ID: 11091047
 ![Home](screenshots/Home5.png)
 
 ### About Page
-![About Page](screenshots/about-page.png)
+![About Page](screenshots/About.png)
+![About Page](screenshots/About1.png)
 
-### ...
+### Gallery Page
+![Gallery Page](screenshots/Gallery.png)
+
+## Short Courses Page
+![Short Courses Page](screenshots/Short%20courses.png)
+![Short Courses Page](screenshots/Short%20courses1.png)
+
+## Portal Page
+![Portal Page](screenshots/Portal.png)
+![Portal Page](screenshots/Short%20courses1.png)
+
+## Research Page
+![ Research Page](screenshots/Research.png)
+![ Research Page](screenshots/Research1.png)
+
+## Faq Page
+![Faq Page](screenshots/Faq.png)
+
+## Distance Page
+![Distance Page](screenshots/Distance.png)
+![Distance Page](screenshots/Distance1.png)
+
+## Programs Page
+![Programs Page](screenshots/Programs.png)
 
 ## What I Have Learned
 ----------------------
-List the key learnings or takeaways from working on this project. This could include technical skills, problem-solving experiences, or anything you found particularly interesting or challenging.
-
-Feel free to format and structure the README according to your preferences. Ensure that it is well-organized, clear, and professional in presentation.
+By creating a website, you can gain proficiency in these foundational languages that define the structure and presentation of web pages.Lerant CSS selectors to target HTML elements and applied styles. How to style and format HTML elemnts using CSS.. With the proliferation of mobile devices, responsive design has become crucial. Building a website provides an opportunity to learn how to create designs that adapt and display properly on different screen sizes and devices.
